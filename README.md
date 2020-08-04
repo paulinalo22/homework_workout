@@ -35,7 +35,7 @@ Productivity and health!!
 
 ## Links
 
-- [Deployed App in Heroku](link)
+- [Deployed App in Heroku](https://arcane-badlands-49617.herokuapp.com/)
 
 ## Licenses
 
